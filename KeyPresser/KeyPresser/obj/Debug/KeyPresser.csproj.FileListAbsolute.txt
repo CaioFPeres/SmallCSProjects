@@ -1,0 +1,10 @@
+C:\Users\Caio Peres\source\repos\KeyPresser\KeyPresser\bin\Debug\KeyPresser.exe.config
+C:\Users\Caio Peres\source\repos\KeyPresser\KeyPresser\bin\Debug\KeyPresser.exe
+C:\Users\Caio Peres\source\repos\KeyPresser\KeyPresser\bin\Debug\KeyPresser.pdb
+C:\Users\Caio Peres\source\repos\KeyPresser\KeyPresser\obj\Debug\KeyPresser.csprojAssemblyReference.cache
+C:\Users\Caio Peres\source\repos\KeyPresser\KeyPresser\obj\Debug\KeyPresser.Form1.resources
+C:\Users\Caio Peres\source\repos\KeyPresser\KeyPresser\obj\Debug\KeyPresser.Properties.Resources.resources
+C:\Users\Caio Peres\source\repos\KeyPresser\KeyPresser\obj\Debug\KeyPresser.csproj.GenerateResource.cache
+C:\Users\Caio Peres\source\repos\KeyPresser\KeyPresser\obj\Debug\KeyPresser.csproj.CoreCompileInputs.cache
+C:\Users\Caio Peres\source\repos\KeyPresser\KeyPresser\obj\Debug\KeyPresser.exe
+C:\Users\Caio Peres\source\repos\KeyPresser\KeyPresser\obj\Debug\KeyPresser.pdb

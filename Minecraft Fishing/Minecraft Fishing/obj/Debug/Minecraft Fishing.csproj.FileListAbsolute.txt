@@ -1,0 +1,10 @@
+C:\Users\Caio Peres\source\repos\Minecraft Fishing\Minecraft Fishing\bin\Debug\Minecraft Fishing.exe.config
+C:\Users\Caio Peres\source\repos\Minecraft Fishing\Minecraft Fishing\bin\Debug\Minecraft Fishing.exe
+C:\Users\Caio Peres\source\repos\Minecraft Fishing\Minecraft Fishing\bin\Debug\Minecraft Fishing.pdb
+C:\Users\Caio Peres\source\repos\Minecraft Fishing\Minecraft Fishing\obj\Debug\Minecraft Fishing.csprojAssemblyReference.cache
+C:\Users\Caio Peres\source\repos\Minecraft Fishing\Minecraft Fishing\obj\Debug\Minecraft_Fishing.Form1.resources
+C:\Users\Caio Peres\source\repos\Minecraft Fishing\Minecraft Fishing\obj\Debug\Minecraft_Fishing.Properties.Resources.resources
+C:\Users\Caio Peres\source\repos\Minecraft Fishing\Minecraft Fishing\obj\Debug\Minecraft Fishing.csproj.GenerateResource.cache
+C:\Users\Caio Peres\source\repos\Minecraft Fishing\Minecraft Fishing\obj\Debug\Minecraft Fishing.csproj.CoreCompileInputs.cache
+C:\Users\Caio Peres\source\repos\Minecraft Fishing\Minecraft Fishing\obj\Debug\Minecraft Fishing.exe
+C:\Users\Caio Peres\source\repos\Minecraft Fishing\Minecraft Fishing\obj\Debug\Minecraft Fishing.pdb

@@ -1,0 +1,9 @@
+Pagina começa em:  376, 61
+Termina em:        1546, 992
+
+tamanho da pagina(quadrado):  1168, 929
+
+
+
+
+Format48bppRgb   ???? sera q funciona

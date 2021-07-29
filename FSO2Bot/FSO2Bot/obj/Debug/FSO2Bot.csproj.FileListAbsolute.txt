@@ -1,0 +1,10 @@
+C:\Users\Caio Peres\source\repos\FSO2Bot\FSO2Bot\obj\Debug\FSO2Bot.Form1.resources
+C:\Users\Caio Peres\source\repos\FSO2Bot\FSO2Bot\obj\Debug\FSO2Bot.Properties.Resources.resources
+C:\Users\Caio Peres\source\repos\FSO2Bot\FSO2Bot\obj\Debug\FSO2Bot.csproj.GenerateResource.cache
+C:\Users\Caio Peres\source\repos\FSO2Bot\FSO2Bot\obj\Debug\FSO2Bot.csproj.CoreCompileInputs.cache
+C:\Users\Caio Peres\source\repos\FSO2Bot\FSO2Bot\bin\Debug\FSO2Bot.exe.config
+C:\Users\Caio Peres\source\repos\FSO2Bot\FSO2Bot\bin\Debug\FSO2Bot.exe
+C:\Users\Caio Peres\source\repos\FSO2Bot\FSO2Bot\bin\Debug\FSO2Bot.pdb
+C:\Users\Caio Peres\source\repos\FSO2Bot\FSO2Bot\obj\Debug\FSO2Bot.exe
+C:\Users\Caio Peres\source\repos\FSO2Bot\FSO2Bot\obj\Debug\FSO2Bot.pdb
+C:\Users\Caio Peres\source\repos\FSO2Bot\FSO2Bot\obj\Debug\FSO2Bot.csprojAssemblyReference.cache

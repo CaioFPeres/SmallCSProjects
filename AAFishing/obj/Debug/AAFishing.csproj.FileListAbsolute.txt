@@ -1,0 +1,10 @@
+C:\Users\Caio Peres\source\repos\AAFishing\obj\Debug\AAFishing.Properties.Resources.resources
+C:\Users\Caio Peres\source\repos\AAFishing\obj\Debug\AAFishing.csproj.GenerateResource.cache
+C:\Users\Caio Peres\source\repos\AAFishing\bin\Debug\AAFishing.exe.config
+C:\Users\Caio Peres\source\repos\AAFishing\bin\Debug\AAFishing.exe
+C:\Users\Caio Peres\source\repos\AAFishing\bin\Debug\AAFishing.pdb
+C:\Users\Caio Peres\source\repos\AAFishing\obj\Debug\AAFishing.exe
+C:\Users\Caio Peres\source\repos\AAFishing\obj\Debug\AAFishing.pdb
+C:\Users\Caio Peres\source\repos\AAFishing\obj\Debug\AAFishing.csprojAssemblyReference.cache
+C:\Users\Caio Peres\source\repos\AAFishing\obj\Debug\AAFishing.AAFishing.resources
+C:\Users\Caio Peres\source\repos\AAFishing\obj\Debug\AAFishing.csproj.CoreCompileInputs.cache

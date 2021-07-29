@@ -1,0 +1,10 @@
+C:\Users\Caio Peres\source\repos\TirarPrintdeLivro\TirarPrintdeLivro\obj\Debug\TirarPrintdeLivro.csprojAssemblyReference.cache
+C:\Users\Caio Peres\source\repos\TirarPrintdeLivro\TirarPrintdeLivro\obj\Debug\TirarPrintdeLivro.Form1.resources
+C:\Users\Caio Peres\source\repos\TirarPrintdeLivro\TirarPrintdeLivro\obj\Debug\TirarPrintdeLivro.Properties.Resources.resources
+C:\Users\Caio Peres\source\repos\TirarPrintdeLivro\TirarPrintdeLivro\obj\Debug\TirarPrintdeLivro.csproj.GenerateResource.cache
+C:\Users\Caio Peres\source\repos\TirarPrintdeLivro\TirarPrintdeLivro\obj\Debug\TirarPrintdeLivro.csproj.CoreCompileInputs.cache
+C:\Users\Caio Peres\source\repos\TirarPrintdeLivro\TirarPrintdeLivro\bin\Debug\TirarPrintdeLivro.exe.config
+C:\Users\Caio Peres\source\repos\TirarPrintdeLivro\TirarPrintdeLivro\bin\Debug\TirarPrintdeLivro.exe
+C:\Users\Caio Peres\source\repos\TirarPrintdeLivro\TirarPrintdeLivro\bin\Debug\TirarPrintdeLivro.pdb
+C:\Users\Caio Peres\source\repos\TirarPrintdeLivro\TirarPrintdeLivro\obj\Debug\TirarPrintdeLivro.exe
+C:\Users\Caio Peres\source\repos\TirarPrintdeLivro\TirarPrintdeLivro\obj\Debug\TirarPrintdeLivro.pdb

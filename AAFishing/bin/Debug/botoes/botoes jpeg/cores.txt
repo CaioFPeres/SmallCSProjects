@@ -1,0 +1,15 @@
+Cores do pixel numero 5 da primeira linha de pixels de cada botão:
+
+
+          A   R   G  B
+botão1:  255 231 137 70
+botão2:  255 251 149 75
+botão3:  255 255 151 76
+botão4:  255 232 138 70
+botão5:  255 253 150 75
+
+
+
+	Margem de erro:
+	R: entre 225 a 260
+	G: entre 130 a 160

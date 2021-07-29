@@ -1,0 +1,10 @@
+C:\Users\Caio Peres\source\repos\Renomeador\Renomeador\bin\Debug\Renomeador.exe.config
+C:\Users\Caio Peres\source\repos\Renomeador\Renomeador\bin\Debug\Renomeador.exe
+C:\Users\Caio Peres\source\repos\Renomeador\Renomeador\bin\Debug\Renomeador.pdb
+C:\Users\Caio Peres\source\repos\Renomeador\Renomeador\obj\Debug\Renomeador.csprojAssemblyReference.cache
+C:\Users\Caio Peres\source\repos\Renomeador\Renomeador\obj\Debug\Renomeador.Form1.resources
+C:\Users\Caio Peres\source\repos\Renomeador\Renomeador\obj\Debug\Renomeador.Properties.Resources.resources
+C:\Users\Caio Peres\source\repos\Renomeador\Renomeador\obj\Debug\Renomeador.csproj.GenerateResource.cache
+C:\Users\Caio Peres\source\repos\Renomeador\Renomeador\obj\Debug\Renomeador.csproj.CoreCompileInputs.cache
+C:\Users\Caio Peres\source\repos\Renomeador\Renomeador\obj\Debug\Renomeador.exe
+C:\Users\Caio Peres\source\repos\Renomeador\Renomeador\obj\Debug\Renomeador.pdb

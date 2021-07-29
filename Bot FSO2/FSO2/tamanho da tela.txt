@@ -1,0 +1,5 @@
+14x25 (linha x coluna) quadrados de 32x32
+
+800x448 pixels
+
+A tela do jogo começa em 560x255 pixels

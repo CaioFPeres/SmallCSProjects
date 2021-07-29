@@ -1,0 +1,10 @@
+C:\Users\Caio Peres\source\repos\DBOBot\DBOBot\bin\Debug\test.exe.config
+C:\Users\Caio Peres\source\repos\DBOBot\DBOBot\bin\Debug\test.exe
+C:\Users\Caio Peres\source\repos\DBOBot\DBOBot\bin\Debug\test.pdb
+C:\Users\Caio Peres\source\repos\DBOBot\DBOBot\obj\Debug\DBOBot.Form1.resources
+C:\Users\Caio Peres\source\repos\DBOBot\DBOBot\obj\Debug\test.Properties.Resources.resources
+C:\Users\Caio Peres\source\repos\DBOBot\DBOBot\obj\Debug\DBOBot.csproj.GenerateResource.cache
+C:\Users\Caio Peres\source\repos\DBOBot\DBOBot\obj\Debug\DBOBot.csproj.CoreCompileInputs.cache
+C:\Users\Caio Peres\source\repos\DBOBot\DBOBot\obj\Debug\test.exe
+C:\Users\Caio Peres\source\repos\DBOBot\DBOBot\obj\Debug\test.pdb
+C:\Users\Caio Peres\source\repos\DBOBot\DBOBot\obj\Debug\DBOBot.csprojAssemblyReference.cache
